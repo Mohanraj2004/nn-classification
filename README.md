@@ -61,8 +61,8 @@ Predict the new sample data.
 
 ## PROGRAM
 ```python
-# Developed By:m.sri harish
-# Register Number:212220230047
+# Developed By: S.MOHANRAJ
+# Register Number:212221230065
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
